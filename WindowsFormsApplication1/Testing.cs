@@ -52,10 +52,18 @@ public enum Mensajes{
     }
 
 
-    public class GuardaEnBaseDeDatos : IGuardaBaseDeDato{
+    public class GuardaEnBaseDeDatos : IGuardaBaseDeDato
+    {
 
-        public void GuardarLogDB(Loggear log)
+        #region Singleton
+        private static GuardaEnBaseDeDatos _instance;
+        public static GuardaEnBaseDeDatos Instance
         {
+            get { return (_instance ?? new GuardaEnBaseDeDatos()); }
+        }
+        #endregion
+        public void GuardarLogDB(Loggear log)
+        {                       
             int t;
             if (log._logMessage)
                 t=1;
@@ -138,14 +146,15 @@ public void LogMessage(Loggear log)
                 ThrowException("Error or Warning or Message must be specified");
         
         MuestraPorConsola consola = new MuestraPorConsola();        
-        GuardaEnArchivo archivo = new GuardaEnArchivo();
-        GuardaEnBaseDeDatos DB = new GuardaEnBaseDeDatos();
+        GuardaEnArchivo archivo = new GuardaEnArchivo();        
         if(log._logToConsole)
             consola.MuestrPorPantalla(log);
         if(log._logToFile)
             archivo.GuardaLogEnArchivo(log);
         if(log.LogToDatabase)
-            DB.GuardarLogDB(log);
+            GuardaEnBaseDeDatos.Instance.GuardarLogDB(log);
+
+        
 
     }                     
 }

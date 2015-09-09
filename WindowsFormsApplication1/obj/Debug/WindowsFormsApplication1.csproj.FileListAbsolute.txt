@@ -6,3 +6,11 @@ C:\Users\barretoi\documents\visual studio 2013\Projects\WindowsFormsApplication1
 C:\Users\barretoi\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
 C:\Users\barretoi\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\barretoi\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\barretoi\Documents\GitHub\Belatrix\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\barretoi\Documents\GitHub\Belatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\barretoi\Documents\GitHub\Belatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\barretoi\Documents\GitHub\Belatrix\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\barretoi\Documents\GitHub\Belatrix\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\barretoi\Documents\GitHub\Belatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\barretoi\Documents\GitHub\Belatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\barretoi\Documents\GitHub\Belatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

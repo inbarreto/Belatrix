@@ -5,3 +5,10 @@ C:\Users\barretoi\documents\visual studio 2013\Projects\WindowsFormsApplication1
 C:\Users\barretoi\documents\visual studio 2013\Projects\WindowsFormsApplication1\TestUnitario\bin\Debug\WindowsFormsApplication1.pdb
 C:\Users\barretoi\documents\visual studio 2013\Projects\WindowsFormsApplication1\TestUnitario\obj\Debug\TestUnitario.dll
 C:\Users\barretoi\documents\visual studio 2013\Projects\WindowsFormsApplication1\TestUnitario\obj\Debug\TestUnitario.pdb
+C:\Users\barretoi\Documents\GitHub\Belatrix\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\barretoi\Documents\GitHub\Belatrix\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\barretoi\Documents\GitHub\Belatrix\TestUnitario\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\barretoi\Documents\GitHub\Belatrix\TestUnitario\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\barretoi\Documents\GitHub\Belatrix\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\barretoi\Documents\GitHub\Belatrix\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\barretoi\Documents\GitHub\Belatrix\TestUnitario\obj\Debug\TestUnitario.pdb
